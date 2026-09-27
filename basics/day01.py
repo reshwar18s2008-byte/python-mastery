@@ -1,3 +1,2 @@
-print("day1-python mastery")    
-print("i am going from knowing python to mastering python   " \
-"")
+print("Day 1 - Python Mastery")
+print("I am going from knowing Python to mastering Python.")
